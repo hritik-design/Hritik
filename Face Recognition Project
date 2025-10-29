@@ -1,0 +1,30 @@
+Face Recognition Attendance System (Python + OpenCV + Tkinter)
+
+A smart attendance system that uses face recognition to automatically mark attendance.
+It captures faces through a webcam, trains a recognition model, and records attendance in CSV files — all through an elegant Tkinter GUI.
+
+🚀 Features
+
+📸 Capture face samples for each user (using webcam)
+
+🧠 Train model using LBPHFaceRecognizer (OpenCV)
+
+🕵️ Recognize faces in real time and mark attendance automatically
+
+📋 View daily attendance records inside the app
+
+💾 Attendance stored as CSV files by date
+
+🎨 Modern dark-themed Tkinter interface
+
+🧰 Technologies Used
+
+Python
+
+OpenCV (cv2)
+
+NumPy & Pandas
+
+Tkinter (GUI)
+
+Haar Cascade Classifie
